@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/coding-121/v15/Browse.VC.opendb
+/.vs/coding-121/v15/Browse.VC.db
